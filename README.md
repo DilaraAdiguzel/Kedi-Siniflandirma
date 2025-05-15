@@ -8,11 +8,9 @@ Bu proje, Oxford-IIIT Pet Dataset kullanılarak eğitilen bir **Convolutional Ne
 - [Veri Seti](#veri-seti)  
 - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)  
 - [Kurulum ve Çalıştırma](#kurulum-ve-çalıştırma)
-- [Klasör Yapım](#klasör-yapım) 
 - [Uygulama Kullanımı](#uygulama-kullanımı)  
 - [Model Bilgisi](#model-bilgisi)  
-- [Ekran Görüntüsü](#ekran-görüntüsü)  
-- [Lisans](#lisans)  
+ 
 - [İletişim](#iletişim)
 
 ---
@@ -51,10 +49,6 @@ git clone https://github.com/kullaniciadi/kedi-siniflandirma.git
 cd kedi-siniflandirma
 
 
-Sanal ortam oluşturun ve bağımlılıkları yükleyin:
-
-
-pip install -r requirements.txt
 
 Uygulamayı başlatın:
 
